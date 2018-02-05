@@ -1,0 +1,35 @@
+h2 {
+  text-align: center;
+  font-family: 'Modak', cursive;
+  font-size: 30px;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  height:400px;
+  width:150px;
+    border: white 5px solid;
+}
+
+#one {
+  background: #247BA0;
+}
+
+#two {
+  background: #70C1B3;
+}
+
+#three {
+  background: #B2DBBF;
+}
+
+#four {
+  background: #F3FFBD;
+}
+
+#five {
+  background: #FF1654;
+}
